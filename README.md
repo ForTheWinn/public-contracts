@@ -1,7 +1,9 @@
-# public-contracts
+# Forthewin public smart contracts
+
+Our very smart contracts are in a private repo. This public smart contracts are released because it has deployed on mainnet.
 
 ## FTWSmithNep17
-Forthewin Smith uses this contract to help deploying NEP-17 contract inside Smith smart contract.
+FTWSmith uses FTWSmithNep17 contract. Deployer can use this contract when they need to update their contracts.
 
 ## FTWSmithNep11
-The Smith uses this contract for NEP-11 deploying.
+FTWSmith uses this contract for NEP-11 deploying.
