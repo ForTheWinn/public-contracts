@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <NeoContractName>FTWSmithNep17-v4</NeoContractName>
+    <Nullable>enable</Nullable>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Neo.SmartContract.Framework" Version="3.3.0" />
+    <PackageReference Include="Neo.BuildTasks" Version="3.3.23" PrivateAssets="all" />
+  </ItemGroup>
+</Project>
